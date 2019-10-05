@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="VK tests" verbose="1" >
+    <test name="Likes tests">
+        <classes>
+            <class name="LikesTest"/>
+        </classes>
+    </test>
+</suite>
