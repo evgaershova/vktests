@@ -1,12 +1,57 @@
+import client.ApiWrapper;
+import com.vk.api.sdk.client.actors.UserActor;
+import io.qameta.allure.Attachment;
+import listeners.TestListener;
+import org.apache.commons.io.FileUtils;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.Listeners;
+
+import java.io.File;
+import java.io.IOException;
+
+@Listeners(TestListener.class)
 public class BaseTest {
 
-    //public static final String CLIENT_SECRET = "qRoI9ytckc5RD9dCuhr1";
-    //   public static final String CODE = "5810faaaa392908be1";
-    protected static final String REDIRECT_URI = "https://vk.com/chisnog";
-    protected static final long CLIENT_ID = 7141863;
+    protected static int userId;
+    protected static int groupId;
 
-    //TODO брать эти данные из проперти
-    protected static final String ACCESS_TOKEN  = "6590d8e59092cec63f9aab5fd1c675c88a647c4dc2da9470c2407c31b35d22e961bb5bd1f8ee1a37b43d1";
+    protected static String accessToken;
 
-    protected static final String GROUP_ACCESS_TOKEN = "0300c73ddb12414698e79061315907c147547ffc9f61a19824b38a3c3d9e8c786281f243d629a7e6a5c9b";
+    protected static UserActor actor;
+
+    private static ApiWrapper apiWrapper;
+
+    private static String fileSeparator;
+
+    @BeforeSuite(description = "Get all system properties and create API client instance")
+    public void initApi() {
+        userId = Integer.valueOf(System.getProperty("userId"));
+        groupId = Integer.valueOf(System.getProperty("groupId"));
+        accessToken =  System.getProperty("token");
+        fileSeparator = System.getProperty("file.separator");
+
+        apiWrapper = ApiWrapper.getInstance();
+
+        actor = new UserActor(userId, accessToken);
+    }
+
+    @AfterMethod(description = "Attach logs")
+    public void attachLogs() {
+        appendLogToAllure(new File( "target" + fileSeparator + "logs" + fileSeparator + "test-logs.log"));
+    }
+
+    @Attachment(value = "tests-log", type = "text/html")
+    private byte[] appendLogToAllure(File file) {
+        try {
+            return FileUtils.readFileToByteArray(file);
+        } catch (IOException ignored) {
+        }
+        return null;
+    }
+
+    public static ApiWrapper api() {
+        return apiWrapper;
+    }
+
 }

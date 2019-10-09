@@ -3,7 +3,7 @@
 <suite name="VK tests" verbose="1" >
     <test name="Likes tests">
         <classes>
-            <class name="LikesTest"/>
+            <class name="LikesTest"></class>
         </classes>
     </test>
 </suite>
