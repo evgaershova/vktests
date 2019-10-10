@@ -5,7 +5,6 @@ import com.vk.api.sdk.queries.likes.LikesType;
 import io.qameta.allure.Description;
 import org.testng.annotations.Test;
 
-import java.io.IOException;
 import java.util.List;
 
 import static org.assertj.core.api.Assertions.assertThat;

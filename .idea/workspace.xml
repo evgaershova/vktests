@@ -1,0 +1,1150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1028393a-dd43-4e09-bb41-8d8eb0c44c66" name="Default Changelist" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LikesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GroupLikesTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/listeners/TestListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/listeners/TestResultsListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/test-suite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/test-suite.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/GroupLikesTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="117" column="56" selection-start-line="117" selection-start-column="56" selection-end-line="117" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BaseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-450">
+              <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/allure.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/listeners/TestResultsListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>PostResponse</find>
+      <find>log</find>
+      <find>public</find>
+      <find>httpClient</find>
+      <find>ApacheHttpTransport</find>
+      <find>HttpRequestBase</find>
+      <find>httpclient</find>
+      <find>build()</find>
+      <find>weaveJavaxPackages</find>
+      <find>implements Configuraion</find>
+      <find>for</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/App.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/allure.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/ApiCli.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AllureAttachmentRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AllureHttpClientRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RequestHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MyClient.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/logging.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/LogConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LogListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NewCli.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CustomTransportClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MyGetListResponse.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/test-suite.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ApiWrapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TestListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/client/ApiWrapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LikesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GroupLikesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GroupLikesTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/listeners/TestListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/listeners/TestResultsListener.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j2.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="2582" />
+    <option name="height" value="1406" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vktests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vktests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vktests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vktests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vktests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vktests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vktests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vktests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vktests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vktests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vktests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vktests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="listeners" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vktests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vktests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vktests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vktests" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vktests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.GroupLikesTests.addLike">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupLikesTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="vk-tests" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GroupLikesTests" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -DgroupToken=0300c73ddb12414698e79061315907c147547ffc9f61a19824b38a3c3d9e8c786281f243d629a7e6a5c9b -Dtoken=6590d8e59092cec63f9aab5fd1c675c88a647c4dc2da9470c2407c31b35d22e961bb5bd1f8ee1a37b43d1" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupLikesTests.addLike" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="vk-tests" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GroupLikesTests" />
+      <option name="METHOD_NAME" value="addLike" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -DgroupToken=0300c73ddb12414698e79061315907c147547ffc9f61a19824b38a3c3d9e8c786281f243d629a7e6a5c9b -Dtoken=6590d8e59092cec63f9aab5fd1c675c88a647c4dc2da9470c2407c31b35d22e961bb5bd1f8ee1a37b43d1" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupLikesTests.addLikeWithIncorrectItemIdFails" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="vk-tests" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GroupLikesTests" />
+      <option name="METHOD_NAME" value="addLikeWithIncorrectItemIdFails" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -DgroupToken=0300c73ddb12414698e79061315907c147547ffc9f61a19824b38a3c3d9e8c786281f243d629a7e6a5c9b -Dtoken=6590d8e59092cec63f9aab5fd1c675c88a647c4dc2da9470c2407c31b35d22e961bb5bd1f8ee1a37b43d1" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupLikesTests.deleteLikeForTheSecondTimeFails" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="vk-tests" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GroupLikesTests" />
+      <option name="METHOD_NAME" value="deleteLikeForTheSecondTimeFails" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -DgroupToken=0300c73ddb12414698e79061315907c147547ffc9f61a19824b38a3c3d9e8c786281f243d629a7e6a5c9b -Dtoken=6590d8e59092cec63f9aab5fd1c675c88a647c4dc2da9470c2407c31b35d22e961bb5bd1f8ee1a37b43d1" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupLikesTests.isLiked" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="vk-tests" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GroupLikesTests" />
+      <option name="METHOD_NAME" value="isLiked" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -DgroupToken=0300c73ddb12414698e79061315907c147547ffc9f61a19824b38a3c3d9e8c786281f243d629a7e6a5c9b -Dtoken=6590d8e59092cec63f9aab5fd1c675c88a647c4dc2da9470c2407c31b35d22e961bb5bd1f8ee1a37b43d1" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="TestNG" nameIsGenerated="true">
+      <module name="vktests" />
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Djava.util.logging.config.file=logging.properties " />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -DgroupToken=0300c73ddb12414698e79061315907c147547ffc9f61a19824b38a3c3d9e8c786281f243d629a7e6a5c9b -Dtoken=6590d8e59092cec63f9aab5fd1c675c88a647c4dc2da9470c2407c31b35d22e961bb5bd1f8ee1a37b43d1" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.Unnamed" />
+      <item itemvalue="TestNG.GroupLikesTests" />
+      <item itemvalue="TestNG.GroupLikesTests.addLikeWithIncorrectItemIdFails" />
+      <item itemvalue="TestNG.GroupLikesTests.deleteLikeForTheSecondTimeFails" />
+      <item itemvalue="TestNG.GroupLikesTests.isLiked" />
+      <item itemvalue="TestNG.GroupLikesTests.addLike" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.GroupLikesTests.addLike" />
+        <item itemvalue="TestNG.GroupLikesTests" />
+        <item itemvalue="TestNG.GroupLikesTests.isLiked" />
+        <item itemvalue="TestNG.GroupLikesTests.addLikeWithIncorrectItemIdFails" />
+        <item itemvalue="TestNG.GroupLikesTests.deleteLikeForTheSecondTimeFails" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Eugenya\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1028393a-dd43-4e09-bb41-8d8eb0c44c66" name="Default Changelist" comment="" />
+      <created>1568975424324</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568975424324</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1570221774570</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570221774570</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add tests.">
+      <created>1570656984511</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570656984511</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="LikesTest_isLiked - 2019.10.09 at 22h 07m 46s.xml">
+      <configuration name="LikesTest.isLiked" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LikesTest_isLiked - 2019.10.09 at 22h 09m 39s.xml">
+      <configuration name="LikesTest.isLiked" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LikesTest_isLiked - 2019.10.09 at 22h 09m 58s.xml">
+      <configuration name="LikesTest.isLiked" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LikesTest_isLiked - 2019.10.09 at 22h 11m 45s.xml">
+      <configuration name="LikesTest.isLiked" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LikesTest_isLiked - 2019.10.09 at 22h 14m 55s.xml">
+      <configuration name="LikesTest.isLiked" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LikesTest_isLiked - 2019.10.09 at 22h 16m 02s.xml">
+      <configuration name="LikesTest.isLiked" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LikesTest_isLiked - 2019.10.09 at 22h 19m 02s.xml">
+      <configuration name="LikesTest.isLiked" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LikesTest_(2) - 2019.10.09 at 22h 20m 18s.xml">
+      <configuration name="LikesTest (2)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LikesTest_addLike - 2019.10.09 at 23h 10m 01s.xml">
+      <configuration name="LikesTest.addLike" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LikesTest_addLike - 2019.10.09 at 23h 14m 01s.xml">
+      <configuration name="LikesTest.addLike" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="2582" height="1406" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2656501" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49598715" weight="0.32962328" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.77487963" weight="0.7919521" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.60232747" weight="0.39982876" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.7604334" visible="true" weight="0.25599316" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.23956661" side_tool="true" visible="true" weight="0.25599316" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49919742" weight="0.32962328" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.497191" weight="0.32962328" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="Add tests." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add tests." />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.7/log4j-core-2.7-sources.jar!/org/apache/logging/log4j/core/layout/PatternLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="246" column="58" selection-start-line="246" selection-start-column="58" selection-end-line="246" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.7/log4j-core-2.7-sources.jar!/org/apache/logging/log4j/core/config/LoggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="508" column="31" selection-start-line="508" selection-start-column="31" selection-end-line="508" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.7/log4j-core-2.7-sources.jar!/org/apache/logging/log4j/core/config/ConfigurationFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-875">
+          <caret line="83" column="4" selection-start-line="83" selection-start-column="4" selection-end-line="83" selection-end-column="4" />
+          <folding>
+            <element signature="docComment;class#ConfigurationFactory#0" />
+            <element signature="method#ConfigurationFactory#0;class#ConfigurationFactory#0" />
+            <element signature="docComment;field#CONFIGURATION_FACTORY_PROPERTY#0;class#ConfigurationFactory#0" />
+            <element signature="docComment;field#CONFIGURATION_FILE_PROPERTY#0;class#ConfigurationFactory#0" />
+            <element signature="docComment;field#CATEGORY#0;class#ConfigurationFactory#0" />
+            <element signature="docComment;field#LOGGER#0;class#ConfigurationFactory#0" />
+            <element signature="docComment;field#TEST_PREFIX#0;class#ConfigurationFactory#0" />
+            <element signature="docComment;field#DEFAULT_PREFIX#0;class#ConfigurationFactory#0" />
+            <element signature="docComment;field#CLASS_LOADER_SCHEME#0;class#ConfigurationFactory#0" />
+            <element signature="docComment;field#CLASS_PATH_SCHEME#0;class#ConfigurationFactory#0" />
+            <element signature="docComment;method#getInstance#0;class#ConfigurationFactory#0" />
+            <element signature="method#getInstance#0;class#ConfigurationFactory#0" />
+            <element signature="e#5519#5596#0" />
+            <element signature="e#5672#7357#1" />
+            <element signature="e#5715#7292#0" />
+            <element signature="e#5756#7278#1" />
+            <element signature="e#6013#6092#1" />
+            <element signature="e#6486#6817#1" />
+            <element signature="e#6516#6646#0" />
+            <element signature="e#6674#6795#0" />
+            <element signature="e#6982#7054#1" />
+            <element signature="e#7075#7125#0" />
+            <element signature="e#7301#7347#0" />
+            <element signature="method#addFactory#0;class#ConfigurationFactory#0" />
+            <element signature="e#7587#7703#0" />
+            <element signature="e#7731#7813#0" />
+            <element signature="method#addFactory#1;class#ConfigurationFactory#0" />
+            <element signature="e#8008#8083#0" />
+            <element signature="e#8111#8211#0" />
+            <element signature="docComment;method#setConfigurationFactory#0;class#ConfigurationFactory#0" />
+            <element signature="docComment;method#resetConfigurationFactory#0;class#ConfigurationFactory#0" />
+            <element signature="docComment;method#removeConfigurationFactory#0;class#ConfigurationFactory#0" />
+            <element signature="method#removeConfigurationFactory#0;class#ConfigurationFactory#0" />
+            <element signature="e#9068#9122#1" />
+            <element signature="docComment;method#getConfiguration#1;class#ConfigurationFactory#0" />
+            <element signature="method#getConfiguration#1;class#ConfigurationFactory#0" />
+            <element signature="e#9743#9779#1" />
+            <element signature="e#9816#10019#1" />
+            <element signature="e#9930#10009#1" />
+            <element signature="docComment;method#getConfiguration#2;class#ConfigurationFactory#0" />
+            <element signature="method#getConfiguration#2;class#ConfigurationFactory#0" />
+            <element signature="e#10718#10754#1" />
+            <element signature="e#10783#10868#1" />
+            <element signature="e#10915#11330#1" />
+            <element signature="e#11107#11320#1" />
+            <element signature="e#11245#11306#1" />
+            <element signature="docComment;method#getInputFromUri#0;class#ConfigurationFactory#0" />
+            <element signature="method#getInputFromUri#0;class#ConfigurationFactory#0" />
+            <element signature="e#11840#12116#1" />
+            <element signature="e#11858#11966#0" />
+            <element signature="e#12006#12106#0" />
+            <element signature="e#12163#12492#1" />
+            <element signature="e#12436#12482#1" />
+            <element signature="e#12535#12740#1" />
+            <element signature="e#12753#12869#0" />
+            <element signature="e#12909#12995#0" />
+            <element signature="e#13023#13114#0" />
+            <element signature="method#isClassLoaderUri#0;class#ConfigurationFactory#0" />
+            <element signature="e#13229#13266#1" />
+            <element signature="method#extractClassLoaderUriPath#0;class#ConfigurationFactory#0" />
+            <element signature="docComment;method#getInputFromString#0;class#ConfigurationFactory#0" />
+            <element signature="method#getInputFromString#0;class#ConfigurationFactory#0" />
+            <element signature="e#13961#14115#0" />
+            <element signature="e#14143#14656#0" />
+            <element signature="e#14262#14619#1" />
+            <element signature="e#14284#14444#0" />
+            <element signature="e#14486#14605#0" />
+            <element signature="docComment;method#getInputFromResource#0;class#ConfigurationFactory#0" />
+            <element signature="method#getInputFromResource#0;class#ConfigurationFactory#0" />
+            <element signature="e#15089#15125#1" />
+            <element signature="e#15169#15215#0" />
+            <element signature="e#15246#15329#0" />
+            <element signature="e#15354#15390#1" />
+            <element signature="e#15427#15706#1" />
+            <element signature="e#15445#15548#0" />
+            <element signature="e#15585#15696#0" />
+            <element signature="docComment;class#Factory#0;class#ConfigurationFactory#0" />
+            <element signature="class#Factory#0;class#ConfigurationFactory#0" />
+            <element signature="docComment;method#getConfiguration#0;class#Factory#0;class#ConfigurationFactory#0" />
+            <element signature="method#getConfiguration#0;class#Factory#0;class#ConfigurationFactory#0" />
+            <element signature="e#16319#18215#1" />
+            <element signature="e#16547#17537#1" />
+            <element signature="e#16668#17440#1" />
+            <element signature="e#16825#17350#1" />
+            <element signature="e#17031#17139#1" />
+            <element signature="e#17145#17324#1" />
+            <element signature="e#17612#18201#1" />
+            <element signature="e#17725#18183#1" />
+            <element signature="e#17783#18161#1" />
+            <element signature="e#17841#18135#1" />
+            <element signature="e#18019#18105#1" />
+            <element signature="e#18221#19054#1" />
+            <element signature="e#18415#19040#1" />
+            <element signature="e#18528#19022#1" />
+            <element signature="e#18586#19000#1" />
+            <element signature="e#18680#18974#1" />
+            <element signature="e#18858#18944#1" />
+            <element signature="e#19168#19527#1" />
+            <element signature="e#19276#19513#1" />
+            <element signature="e#19393#19495#1" />
+            <element signature="e#19560#19606#1" />
+            <element signature="method#getConfiguration#1;class#Factory#0;class#ConfigurationFactory#0" />
+            <element signature="e#19974#20066#0" />
+            <element signature="e#20094#20216#0" />
+            <element signature="e#20249#20421#1" />
+            <element signature="e#20454#21155#1" />
+            <element signature="e#20530#21141#1" />
+            <element signature="e#20643#21123#1" />
+            <element signature="e#20701#21101#1" />
+            <element signature="e#20795#21075#1" />
+            <element signature="e#20959#21045#1" />
+            <element signature="method#getConfiguration#2;class#Factory#0;class#ConfigurationFactory#0" />
+            <element signature="e#21528#22313#1" />
+            <element signature="e#21746#21795#1" />
+            <element signature="e#21847#22299#1" />
+            <element signature="e#21899#21956#1" />
+            <element signature="e#22178#22281#1" />
+            <element signature="method#getConfiguration#3;class#Factory#0;class#ConfigurationFactory#0" />
+            <element signature="e#22617#23618#1" />
+            <element signature="e#22753#23604#1" />
+            <element signature="e#22866#23586#1" />
+            <element signature="e#22924#23564#1" />
+            <element signature="e#23025#23538#1" />
+            <element signature="e#23179#23350#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.7/log4j-core-2.7-sources.jar!/org/apache/logging/log4j/core/config/builder/api/ConfigurationBuilderFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.7/log4j-core-2.7-sources.jar!/org/apache/logging/log4j/core/config/LoggersPlugin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2-test.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logging.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/LogConfig.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/LogListener.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar!/org/apache/http/impl/client/BasicCookieStore.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vk/api/sdk/0.5.12/sdk-0.5.12-sources.jar!/com/vk/api/sdk/queries/wall/WallGetByIdQueryWithExtended.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="66" column="13" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vk/api/sdk/0.5.12/sdk-0.5.12-sources.jar!/com/vk/api/sdk/client/AbstractQueryBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="docComment;class#AbstractQueryBuilder#0" />
+            <element signature="docComment;method#AbstractQueryBuilder#0;class#AbstractQueryBuilder#0" />
+            <element signature="method#AbstractQueryBuilder#0;class#AbstractQueryBuilder#0" />
+            <element signature="docComment;method#AbstractQueryBuilder#1;class#AbstractQueryBuilder#0" />
+            <element signature="method#AbstractQueryBuilder#1;class#AbstractQueryBuilder#0" />
+            <element signature="docComment;method#boolAsParam#0;class#AbstractQueryBuilder#0" />
+            <element signature="docComment;method#mapToGetString#0;class#AbstractQueryBuilder#0" />
+            <element signature="method#mapToGetString#0;class#AbstractQueryBuilder#0" />
+            <element signature="docComment;method#escape#0;class#AbstractQueryBuilder#0" />
+            <element signature="method#escape#0;class#AbstractQueryBuilder#0" />
+            <element signature="e#2598#2662#0" />
+            <element signature="e#2703#2758#0" />
+            <element signature="docComment;method#accessToken#0;class#AbstractQueryBuilder#0" />
+            <element signature="docComment;method#clientSecret#0;class#AbstractQueryBuilder#0" />
+            <element signature="docComment;method#lang#0;class#AbstractQueryBuilder#0" />
+            <element signature="docComment;method#version#0;class#AbstractQueryBuilder#0" />
+            <element signature="docComment;method#captchaSid#0;class#AbstractQueryBuilder#0" />
+            <element signature="docComment;method#captchaKey#0;class#AbstractQueryBuilder#0" />
+            <element signature="docComment;method#confirm#0;class#AbstractQueryBuilder#0" />
+            <element signature="docComment;method#unsafeParam#0;class#AbstractQueryBuilder#0" />
+            <element signature="method#unsafeParam#0;class#AbstractQueryBuilder#0" />
+            <element signature="docComment;method#unsafeParam#1;class#AbstractQueryBuilder#0" />
+            <element signature="docComment;method#unsafeParam#2;class#AbstractQueryBuilder#0" />
+            <element signature="docComment;method#unsafeParam#3;class#AbstractQueryBuilder#0" />
+            <element signature="method#unsafeParam#3;class#AbstractQueryBuilder#0" />
+            <element signature="docComment;method#unsafeParam#4;class#AbstractQueryBuilder#0" />
+            <element signature="docComment;method#unsafeParam#5;class#AbstractQueryBuilder#0" />
+            <element signature="method#unsafeParam#5;class#AbstractQueryBuilder#0" />
+            <element signature="docComment;method#unsafeParam#6;class#AbstractQueryBuilder#0" />
+            <element signature="docComment;method#unsafeParam#7;class#AbstractQueryBuilder#0" />
+            <element signature="docComment;method#unsafeParam#8;class#AbstractQueryBuilder#0" />
+            <element signature="docComment;method#unsafeParam#9;class#AbstractQueryBuilder#0" />
+            <element signature="method#unsafeParam#9;class#AbstractQueryBuilder#0" />
+            <element signature="docComment;method#unsafeParam#10;class#AbstractQueryBuilder#0" />
+            <element signature="method#unsafeParam#10;class#AbstractQueryBuilder#0" />
+            <element signature="docComment;method#getThis#0;class#AbstractQueryBuilder#0" />
+            <element signature="docComment;method#essentialKeys#0;class#AbstractQueryBuilder#0" />
+            <element signature="docComment;method#build#0;class#AbstractQueryBuilder#0" />
+            <element signature="method#build#0;class#AbstractQueryBuilder#0" />
+            <element signature="e#9347#9476#1" />
+            <element signature="docComment;method#getMethod#0;class#AbstractQueryBuilder#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vk/api/sdk/0.5.12/sdk-0.5.12-sources.jar!/com/vk/api/sdk/streaming/queries/StreamingAbstractQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-500">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vk/api/sdk/0.5.12/sdk-0.5.12-sources.jar!/com/vk/api/sdk/streaming/clients/VkStreamingApiClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CustomTransportClient.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3-sources.jar!/org/apache/http/impl/client/BasicCookieStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NewCli.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vk/api/sdk/0.5.12/sdk-0.5.12-sources.jar!/com/vk/api/sdk/client/VkApiClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2839">
+          <caret line="240" column="16" selection-start-line="240" selection-start-column="16" selection-end-line="240" selection-end-column="16" />
+          <folding>
+            <element signature="e#5890#5891#0" expanded="true" />
+            <element signature="e#5927#5928#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vk/api/sdk/0.5.12/sdk-0.5.12-sources.jar!/com/vk/api/sdk/actions/Wall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1490">
+          <caret line="161" column="19" selection-start-line="161" selection-start-column="19" selection-end-line="161" selection-end-column="19" />
+          <folding>
+            <element signature="e#1664#1665#0" expanded="true" />
+            <element signature="e#1693#1694#0" expanded="true" />
+            <element signature="e#5542#5543#0" expanded="true" />
+            <element signature="e#5602#5603#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vk/api/sdk/0.5.12/sdk-0.5.12-sources.jar!/com/vk/api/sdk/objects/base/Likes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vk/api/sdk/0.5.12/sdk-0.5.12-sources.jar!/com/vk/api/sdk/objects/wall/WallpostAttachment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-825">
+          <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vk/api/sdk/0.5.12/sdk-0.5.12-sources.jar!/com/vk/api/sdk/objects/wall/WallpostToId.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1325">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vk/api/sdk/0.5.12/sdk-0.5.12-sources.jar!/com/vk/api/sdk/objects/wall/WallPost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-593">
+          <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vk/api/sdk/0.5.12/sdk-0.5.12-sources.jar!/com/vk/api/sdk/objects/wall/WallPostFull.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vk/api/sdk/0.5.12/sdk-0.5.12-sources.jar!/com/vk/api/sdk/objects/wall/responses/PostResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vk/api/sdk/0.5.12/sdk-0.5.12-sources.jar!/com/vk/api/sdk/queries/wall/WallPostQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="26" />
+          <folding>
+            <element signature="e#7159#7160#0" expanded="true" />
+            <element signature="e#7208#7209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vk/api/sdk/0.5.12/sdk-0.5.12-sources.jar!/com/vk/api/sdk/client/actors/ServiceActor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vk/api/sdk/0.5.12/sdk-0.5.12-sources.jar!/com/vk/api/sdk/objects/likes/responses/GetListResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MyGetListResponse.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vk/api/sdk/0.5.12/sdk-0.5.12-sources.jar!/com/vk/api/sdk/client/ClientResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vk/api/sdk/0.5.12/sdk-0.5.12-sources.jar!/com/vk/api/sdk/client/TransportClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="1073" column="42" selection-start-line="1073" selection-start-column="42" selection-end-line="1073" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vk/api/sdk/0.5.12/sdk-0.5.12-sources.jar!/com/vk/api/sdk/exceptions/ClientException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vk/api/sdk/0.5.12/sdk-0.5.12-sources.jar!/com/vk/api/sdk/client/ApiRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0/testng-7.0.0-sources.jar!/org/testng/xml/dom/Tag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vk/api/sdk/0.5.12/sdk-0.5.12-sources.jar!/com/vk/api/sdk/actions/Likes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="73" column="33" selection-start-line="73" selection-start-column="33" selection-end-line="73" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vk/api/sdk/0.5.12/sdk-0.5.12-sources.jar!/com/vk/api/sdk/queries/likes/LikesIsLikedQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/assertj/assertj-core/3.13.2/assertj-core-3.13.2.jar!/org/assertj/core/api/Assertions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="224" column="43" selection-start-line="224" selection-start-column="43" selection-end-line="224" selection-end-column="43" />
+          <folding>
+            <element signature="e#8153#8154#0" expanded="true" />
+            <element signature="e#8218#8219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1825">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vk/api/sdk/0.5.12/sdk-0.5.12-sources.jar!/com/vk/api/sdk/actions/Execute.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="958">
+          <caret line="55" column="72" selection-start-line="55" selection-start-column="52" selection-end-line="55" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/test-suite.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0/testng-7.0.0-sources.jar!/org/testng/ITestListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="47" selection-start-line="47" selection-end-line="49" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vk/api/sdk/0.5.12/sdk-0.5.12-sources.jar!/com/vk/api/sdk/httpclient/HttpTransportClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5473">
+          <caret line="39" column="54" selection-start-line="39" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/logs/test-logs.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-575">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="221" column="31" selection-start-line="221" selection-start-column="31" selection-end-line="221" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/allure.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/listeners/TestResultsListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/client/ApiWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="86" column="44" selection-start-line="86" selection-start-column="44" selection-end-line="86" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GroupLikesTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="117" column="56" selection-start-line="117" selection-start-column="56" selection-end-line="117" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>vktests</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.beust:jcommander:1.72</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
