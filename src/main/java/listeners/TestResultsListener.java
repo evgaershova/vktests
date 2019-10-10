@@ -5,9 +5,9 @@ import org.slf4j.LoggerFactory;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
 
-public class TestListener implements ITestListener {
+public class TestResultsListener implements ITestListener {
 
-    private static final Logger LOG = LoggerFactory.getLogger(TestListener.class);
+    private static final Logger LOG = LoggerFactory.getLogger(TestResultsListener.class);
 
 
     public void onTestStart(ITestResult result) {

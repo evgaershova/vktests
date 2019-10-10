@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Configuration status="info">
-  /
     <Appenders>
         <File name="File" fileName="target/logs/test-logs.log">
             <PatternLayout>

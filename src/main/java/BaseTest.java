@@ -1,7 +1,7 @@
 import client.ApiWrapper;
 import com.vk.api.sdk.client.actors.UserActor;
 import io.qameta.allure.Attachment;
-import listeners.TestListener;
+import listeners.TestResultsListener;
 import org.apache.commons.io.FileUtils;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeSuite;
@@ -10,15 +10,15 @@ import org.testng.annotations.Listeners;
 import java.io.File;
 import java.io.IOException;
 
-@Listeners(TestListener.class)
+@Listeners(TestResultsListener.class)
 public class BaseTest {
 
-    protected static int userId;
-    protected static int groupId;
+    public static int userId;
+    public static int groupId;
 
-    protected static String accessToken;
+    public static String accessToken;
 
-    protected static UserActor actor;
+    public static UserActor actor;
 
     private static ApiWrapper apiWrapper;
 
@@ -36,7 +36,7 @@ public class BaseTest {
         actor = new UserActor(userId, accessToken);
     }
 
-    @AfterMethod(description = "Attach logs")
+    @AfterMethod(alwaysRun = true, description = "Attach logs")
     public void attachLogs() {
         appendLogToAllure(new File( "target" + fileSeparator + "logs" + fileSeparator + "test-logs.log"));
     }

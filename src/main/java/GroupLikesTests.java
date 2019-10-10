@@ -10,12 +10,12 @@ import java.util.List;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-public class LikesTest extends BaseTest{
+public class GroupLikesTests extends BaseTest{
 
-    @Test(description = "[likes.getList] Get list of all likes from a apost")
+    @Test(description = "[likes.getList] Get list of all likes from a a post")
     @Description("Get all likes to a given post, and check that actual likes count and actual" +
             " number of userIds is equal to expected")
-    public void getList() throws ClientException, ApiException, IOException, InterruptedException {
+    public void getList() throws ClientException, ApiException {
         int postId = api().createPost(actor, false, groupId).getPostId();
         api().addLikeToItem(actor, LikesType.POST, postId, groupId);
         int expectedLikesCount = 1;
