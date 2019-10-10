@@ -18,7 +18,7 @@
 
 Запуск тестов осущетсвляется при помощи команды: 
 
-mvn clean test -DuserId=USER_ID -DgroupId=GROUP_ID -Dtoken=ACCESS_TOKEN
+`mvn clean test -DuserId=USER_ID -DgroupId=GROUP_ID -Dtoken=ACCESS_TOKEN`
 
 Где 
 - USER_ID - это id пользователя, которому принадлежит приложение
@@ -29,7 +29,7 @@ mvn clean test -DuserId=USER_ID -DgroupId=GROUP_ID -Dtoken=ACCESS_TOKEN
 
 Для запуска Allure-отчетов выполните команду:
 
-mvn allure:serve
+`mvn allure:serve`
 
 
 
