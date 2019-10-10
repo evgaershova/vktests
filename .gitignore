@@ -1,2 +1,6 @@
 .idea
 /.idea/
+/target
+vktests.iml
+/.allure/
+.allure
